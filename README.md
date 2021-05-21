@@ -2,11 +2,11 @@
 
 ## Motivation
 
-Accessbility of a website is of paramount importance to a responsible and reputable business. It not only ensures smooth user experience, but enpowers acquisition of web information by the visually impaired. Moreover, improving web accessibility also boosts SEO and hence internet exposure of a business to its potential audiences.
+Accessbility of a website is of paramount importance to a responsible and reputable business. It not only ensures smooth user experience, but enpowers acquisition of web information by the visually impaired. Moreover, improving web accessibility also boosts SEO of a business, augmenting its exposure to potential customers.
 
-As a web developer, maintaining and improving the codebase should be an integral part of business operations. It sustains the reputation of a business and strengthens the business relationship with its clients.
+As a web developer, the act of maintaining and improving the codebase is an integral part of business operations. The act sustains the reputation of a business and strengthens the business relationship with its clients.
 
-Here, a website is given, along with its code. This website urgently requires code refactoring to improve its overall accessibilty, following the request from a marketing agency to meet the user story and acceptance criteria.
+Here, a website that belongs to Horiseon Marketing Agency requires code-refatoring. THe aim is to perfect its overall accessibilty to meet user story, following the current standards in HTML/CSS and best practices in version control and website deployment.
 
 ## User Story and Acceptance Criteria
 
@@ -29,7 +29,7 @@ Here, a website is given, along with its code. This website urgently requires co
   - clean and concise CSS selectors and properties
   - commenting on CSS code where necessary
 
-- Follow good practice of deplyment:
+- Follow good practice of deployment:
 
   - project deployed with live URL presented
   - no errors upon application upload
