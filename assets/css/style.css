@@ -28,7 +28,8 @@ header h1 .seo {
 }
 
 /* Change .header to header */
-header div {
+/* Change div to nav */
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -37,12 +38,14 @@ header div {
 }
 
 /* Change .header to header */
-header div ul {
+/* Change div to nav */
+header nav ul {
   list-style-type: none;
 }
 
 /* Change .header to header */
-header div ul li {
+/* Change div to nav */
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
