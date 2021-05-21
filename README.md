@@ -1,19 +1,16 @@
-# Code Refactor - HTML/CSS
-
 ## Motivation
 
 Accessbility of a website is of paramount importance to a responsible and reputable business. It not only ensures smooth user experience, but enpowers acquisition of web information by the visually impaired. Moreover, improving web accessibility also boosts SEO of a business, augmenting its exposure to potential customers.
 
 As a web developer, the act of maintaining and improving the codebase is an integral part of business operations. The act sustains the reputation of a business and strengthens the business relationship with its clients.
 
-Here, a website that belongs to Horiseon Marketing Agency requires code-refatoring. THe aim is to perfect its overall accessibilty to meet user story, following the current standards in HTML/CSS and best practices in version control and website deployment.
+Here, a website that belongs to Horiseon Marketing Agency requires code-refatoring. The aim is to perfect its overall accessibilty to meet user story, following the current standards in HTML/CSS and best practices in version control and website deployment.
 
-## User Story and Acceptance Criteria
+## User Story
 
-- User story<br>
-  A codebase that meets accessibility standards which in turn will optimise SEO
+Client requests that a codebase should meet accessibility standards which in turn optimises SEO.
 
-- Acceptance criteria<br>
+## Acceptance criteria:
 
 1. Semantic HTML elements
 2. Logical structure of HTML elements
