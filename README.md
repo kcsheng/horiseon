@@ -6,7 +6,7 @@ As a web developer, the act of maintaining and improving the codebase is an inte
 
 Here, a website that belongs to Horiseon Marketing Agency requires code-refatoring. The aim is to perfect its overall accessibilty to meet user story, following the current standards in HTML/CSS and best practices in version control and website deployment.
 
-The final work of Horiseon website can be accessed [here](https://github.com/kcsheng/horiseon).
+The final work of Horiseon website can be accessed [here](https://kcsheng.github.io/horiseon/).
 
 ## User Story
 
