@@ -203,7 +203,8 @@ p {
   font-size: 36px;
 }
 
-.footer {
+/* Change .footer to footer */
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -211,6 +212,7 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+/* Change .footer to footer */
+footer h2 {
   font-size: 20px;
 }
