@@ -51,6 +51,6 @@ Client requests that a codebase should meet accessibility standards which in tur
 
 Chrome extension WAVE is used to test the web accessibility. There are no major errors, but there are 3 contrast errors, originating from the sidebar. ![chrome extension wave test result](./test/wave_test.jpg)
 
-These errors are corrected accrodingly, resulting in an error-free page: <img src="./test/pass_test.png" alt="no errors following WAVE test" width="40%">
+These errors are corrected accordingly, resulting in an error-free page: <img src="./test/pass_test.png" alt="no errors following WAVE test" width="40%">
 
-The speed of online page upload is also tested after webpage deployment at github io. An incremental upload is observed, suggesting that some image files are too large in size. Following reduction of the size of several images, the loading of [Horiseon](https://kcsheng.github.io/horiseon/) webpage has significantly picked up.
+The speed of online page upload is also tested after webpage deployment at github io. An incremental upload is observed, suggesting that some image files are too large in size. Following reduction of the size of several images, the loading speed of [Horiseon](https://kcsheng.github.io/horiseon/) webpage has significantly picked up.
