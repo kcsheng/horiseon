@@ -45,7 +45,7 @@ Client requests that a codebase should meet accessibility standards which in tur
   - descriptive commits
   - quality README file including the description, screenshot and link to deployed application.
 
-## test
+## Test
 
 Chrome extension WAVE is used to test the web accessibility. There are no major errors, but there are 3 contrast erros, originating from the sidebar. ![chrome extension wave test result](./test/wave_test.jpg) These errors are corrected accrodingly, resulting in an error-free page. <img src="./test/pass_test.png" alt="no errors following WAVE test" width="40%">
 
