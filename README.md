@@ -47,7 +47,7 @@ Client requests that a codebase should meet accessibility standards which in tur
 
 ## test
 
-Chrome extension WAVE is used to test the web accessibility. There are major errors, but there are 3 contrast erros, originating from the sidebar. ![chrome extension wave test result](./test/wave_test.jpg) These errors are corrected accrodingly.
+Chrome extension WAVE is used to test the web accessibility. There are no major errors, but there are 3 contrast erros, originating from the sidebar. ![chrome extension wave test result](./test/wave_test.jpg) These errors are corrected accrodingly.
 
 ## usage: deployed link and how to clone the final result
 
