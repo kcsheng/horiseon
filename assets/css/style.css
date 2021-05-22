@@ -98,7 +98,8 @@ p {
   float: right;
   width: 20%;
   height: 100%;
-  background-color: #2589bd;
+  /* Adjust the color to resolve errors in WAVE test */
+  background-color: #126896;
 }
 
 .benefit-lead {
