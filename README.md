@@ -6,6 +6,8 @@ As a web developer, the act of maintaining and improving the codebase is an inte
 
 Here, a website that belongs to Horiseon Marketing Agency requires code-refatoring. The aim is to perfect its overall accessibilty to meet user story, following the current standards in HTML/CSS and best practices in version control and website deployment.
 
+The final work of Horiseon website can be accessed [here](https://github.com/kcsheng/horiseon).
+
 ## User Story
 
 Client requests that a codebase should meet accessibility standards which in turn optimises SEO.
@@ -52,7 +54,3 @@ Chrome extension WAVE is used to test the web accessibility. There are no major 
 These errors are corrected accrodingly, resulting in an error-free page: <img src="./test/pass_test.png" alt="no errors following WAVE test" width="40%">
 
 The speed of online page upload is also tested after webpage deployment at github io. An incremental upload is observed, suggesting that some image files are too large in size. Following reduction of the size of several images, the loading of [Horiseon](https://kcsheng.github.io/horiseon/) webpage has significantly picked up.
-
-## usage: deployed link and how to clone the final result
-
-## Installation
