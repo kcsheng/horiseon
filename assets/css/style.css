@@ -140,10 +140,11 @@ p {
 }
 
 /* Combine all section img selectors */
+/* Change max-height to height, as currently the page is not responsive. */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
-  max-height: 200px;
+  height: 200px;
 }
 
 /* Combine all section h2 selectors */
