@@ -51,7 +51,9 @@ header nav ul li {
   margin-left: 25px;
 }
 
-a {
+/* Add a:visited */
+a,
+a:visited {
   color: #ffffff;
   text-decoration: none;
 }
