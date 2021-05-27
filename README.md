@@ -36,7 +36,7 @@ Client requests that a codebase should meet accessibility standards which in tur
 
 - Application quality:
 
-  - The application should resemble the mockup (link mockup.jpg in assets).
+  - The application should resemble the [mockup](./mockup/mockup.png).
 
 - Repository quality:
 
